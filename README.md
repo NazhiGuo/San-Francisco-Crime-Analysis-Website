@@ -45,16 +45,6 @@ Here's a quick look at some of the outputs from the project:
 
 ---
 
-## ⚙️ Usage
-
-To replicate or build upon this project:
-
-1. 🏗️ Set up **Apache Spark** and load the 15-year crime dataset.  
-2. 📑 Use the Spark pipeline scripts for preprocessing and analysis.  
-3. 📈 Train the **ARIMA model** or extend with other predictive models.  
-4. 🗺️ Generate visualizations to derive actionable insights.
-
----
 
 ## 🔮 Future Enhancements
 
