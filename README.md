@@ -16,7 +16,7 @@ You can view the **complete data analysis process** by clicking the link below:
 Here's a quick look at some of the outputs from the project:
 
 ### 1️⃣ **Data Visal WEB**
-<img src="website-demo-image\Demo.png" alt="Crime Heatmap" width="600"/>
+![WebsiteDemo](.\website-demo-image\Demo.png)
 
 ---
 ## 🌟 Key Highlights
@@ -62,4 +62,8 @@ To replicate or build upon this project:
 - 🌐 Incorporate **external data sources** (e.g., weather, events) to improve analysis.
 - ⏱️ Deploy as a **real-time crime analysis system** with alerting features.
 
----"# San-Francisco-Crime-Analysis-Website" 
+---
+## And You Can See the Demo at here
+
+[preview](.\website-demo-image\SF_Cri_Web_Preview.mp4)
+
