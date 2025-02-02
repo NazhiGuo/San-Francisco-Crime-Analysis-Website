@@ -10,6 +10,12 @@ You can view the **complete data analysis process** by clicking the link below:
 
 📊 [Complete Data Analysis Process](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3132611002490140/2816849201713231/2491725179032020/latest.html)
 
+### 😊Learn more about me:
+
+Welcome to my homepage, feel free to click the link below!
+
+[Click here to visit my homepage](http://guonazhi.site)
+
 ---
 ## 🎥 Demo
 
