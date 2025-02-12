@@ -60,6 +60,6 @@ Here's a quick look at some of the outputs from the project:
 
 ---
 ## And You Can See the Demo at here
-
-[preview](website-demo-image/SF_Cri_Web_Preview.mp4)
-
+<video width="320" height="240" controls>
+  <source src="website-demo-image/SF_Cri_Web_Preview.mp4" type="video/mp4">
+</video>
